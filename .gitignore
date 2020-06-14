@@ -1,3 +1,6 @@
+# Virtual environment
+mytestenv
+
 # Logs
 logs
 *.log
